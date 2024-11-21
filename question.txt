@@ -1,0 +1,9 @@
+What does DDL stand for?,A. Data Derivation Language,B. Data Definition Language,C. Data Delete Language,D. Data Display Language,B
+Which of the following is a type of join in SQL?,A. Central Join,B. Inner Join,C. Outer Merge,D. Right Cross,B
+Which command is used to remove a table from a database?,A. DELETE,B. DROP,C. ERASE,D. REMOVE,B
+Which type of key can accept null values?,A. Primary Key,B. Foreign Key,C. Candidate Key,D. Composite Key,B
+What is a tuple in the context of DBMS?,A. A single row in a table,B. A single column in a table,C. A set of tables,D. A relationship between tables,A
+Which SQL clause is used to filter records?,A. SORT,B. WHERE,C. FILTER,D. GROUP,B
+What does ACID stand for in the context of transactions?,A. Atomicity Consistency Isolation Durability,B. Accuracy Consistency Integrity Dependability,C. Atomicity Concurrency Integrity Dependability,D. Accuracy Confidence Isolation Durability,A
+Which function is used to return the current date in SQL?,A. DATE(),B. TODAY(),C. GETDATE(),D. CURDATE(),C
+What is the purpose of a foreign key in a relational database?,A. To create a unique identifier,B. To enforce a link between two tables,C. To store unique values only,D. To eliminate duplicates,B
